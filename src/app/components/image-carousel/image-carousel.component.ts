@@ -26,7 +26,7 @@ export class ImageCarouselComponent implements OnInit {
 
   loadImages(): void {
     for (let i = 1; i <= this.quantity; i++) {
-      this.images.push(`/assets/${this.project}/image${i}.png`);
+      this.images.push(`assets/${this.project}/image${i}.png`);
     }
   }
 
