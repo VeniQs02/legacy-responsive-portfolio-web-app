@@ -1,5 +1,5 @@
 
-# Portfolio
+# Old Responsive Portfolio
 
 The project is a web application designed to showcase my work and skills.
 
@@ -17,7 +17,7 @@ The project is a web application designed to showcase my work and skills.
 
 I dont post images of the app, because you can check it out yourself!
 
-**Deployed**: https://veniqs02.github.io/
+**Deployed**: https://veniqs02.github.io/legacy-responsive-portfolio-web-app/
 
 
 ✔️ **RESPONSIVE** - Works well on bigger, as well as smaller devices.
